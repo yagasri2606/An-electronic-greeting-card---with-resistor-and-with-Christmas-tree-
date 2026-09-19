@@ -29,4 +29,5 @@
 
  6\. Opening the circuit stops current flow and turns the LED off.
 
-             
+
+![result](result.jpg)
