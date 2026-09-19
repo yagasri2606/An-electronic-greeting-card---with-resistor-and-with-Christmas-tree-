@@ -16,6 +16,7 @@
 * Colour pens  
 
 **5\. working**
+![result](result.jpg)
 
      1\. The coin-cell battery acts as the DC source.
 
