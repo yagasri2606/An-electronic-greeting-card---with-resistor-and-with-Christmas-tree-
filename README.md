@@ -16,7 +16,7 @@
 * Colour pens  
 
 **5\. working**
-![result](result.jpg)
+![result](stimulation.jpg)
 
      1\. The coin-cell battery acts as the DC source.
 
